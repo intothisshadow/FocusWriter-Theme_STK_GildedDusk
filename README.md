@@ -10,7 +10,7 @@ A custom theme for [FocusWriter](https://gottcode.org/focuswriter/), designed to
 
 > A glimpse of your new distraction-free environment.
 
-![Theme Screenshot](screenshot.jpg)
+![image](screenshot.jpg)
 
 ---
 ## ✨ Features
